@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo&family=Noto+Sans+JP:wght@400;600&family=Quicksand:wght@600&family=Young+Serif&family=ZCOOL+QingKe+HuangYou&display=swap');
+
+.product {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 40px;
+  font-family: 'Heebo', sans-serif;
+  color: white;
+}
+
+.product img {
+  width: 400px;
+  height: 350px;
+  border-radius: 9px 9px 0 0;
+}
+
+span {
+  font-family: 'Heebo', sans-serif;
+  color: white;
+  text-decoration: underline;
+  margin: 0 20px;
+}
+
+.content {
+  background-color: rgb(86, 113, 137);
+  width: 100%;
+  border-radius: 0 0 9px 9px;
+  display: flex;
+}
+
+.categories {
+  width: 30%;
+  margin-left: 20px;
+}
+
+.categories p {
+  text-decoration: underline;
+  margin: 7px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.productValues {
+  width: 50%;
+}
+
+.productValues p {
+  margin: 7px;
+  font-size: 20px;
+}
+
+.iconsDiv {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 20%;
+}

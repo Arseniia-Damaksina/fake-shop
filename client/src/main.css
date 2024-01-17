@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&family=Young+Serif&family=ZCOOL+QingKe+HuangYou&display=swap');
+
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 100vw;
+  height: 100vh;
+  font-family: 'ZCOOL QingKe HuangYou', sans-serif;
+  background-color: rgb(234, 219, 200);
+}

@@ -1,0 +1,19 @@
+.products {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 20px;
+}
+
+.error {
+  font-size: 25px;
+}
+
+.product-items {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+}
