@@ -61,3 +61,4 @@ To get started with the Fakeshop project, follow these steps:
 - Typescript
 - Improve login and authentification system
 - Improve the logic of the app
+- Deployment
